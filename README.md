@@ -29,6 +29,7 @@ To run for example lab3 project:
 
 ```
 $ make my_cpuid
+$ ./my_cpuid
 ```
 
 ## Status
